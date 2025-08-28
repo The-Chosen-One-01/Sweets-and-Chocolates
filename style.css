@@ -1,0 +1,39 @@
+@import url(https://fonts.googleapis.com/css?family=Imperial+Script);
+@import url(https://fonts.googleapis.com/css?family=Imperial+Script);
+
+body {
+    margin: 0%;
+}
+
+.top {
+    background-color: black;
+}
+
+header {
+    display: inline;
+}
+
+.logo {
+    width: 25%;
+}
+
+nav {
+    float: right;
+    margin-right: 120px;
+    margin-top: 40px;
+}
+
+a {
+    font-size: 35px;
+    font-family: 'Imperial Script';
+    margin-left: 225px;
+    text-decoration: none;
+    color: white;
+}
+
+aside {
+    display: inline-block;
+    width: 300px;
+    font-size: 20px;
+}
+

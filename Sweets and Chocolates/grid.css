@@ -1,0 +1,27 @@
+header {
+    grid-area: header;
+}
+
+nav {
+    grid-area: nav;
+}
+
+main {
+    grid-area: main;
+}
+
+aside {
+    grid-area: aside;
+}
+
+footer {
+    grid-area: footer;
+}
+
+body {
+    display: inline-grid;
+    grid-template-areas: 
+    'header nav'
+    'aside main'
+    'footer footer';
+}

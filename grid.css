@@ -19,9 +19,9 @@ footer {
 }
 
 body {
-    display: grid;
+    display: inline-grid;
     grid-template-areas: 
-    'header nav nav'
-    'aside main main'
-    'footer footer footer';
+    'header nav'
+    'aside main'
+    'footer footer';
 }

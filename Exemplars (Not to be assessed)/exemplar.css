@@ -1,0 +1,111 @@
+/* This file is not to be assessed */
+
+@import url(https://fonts.googleapis.com/css?family=Roboto+Flex);
+
+
+.logo {
+    width: 120px;
+}
+
+h1 {
+    display: inline;
+}
+
+nav {
+    display: inline;
+    float: right;
+    margin-right: 100px;
+    margin-top: 15px;
+}
+
+header {
+    display: inline;
+}
+
+a {
+    margin-left: 175px;
+    text-decoration: none;
+    color: black;
+}
+
+.top {
+    padding-top: 10px;
+    padding-left: 10px;
+    background-color: #BCBF60;
+    padding-bottom: 30px;
+    font-size: 20px;
+}
+
+body {
+    margin: 0px;
+    font-family: 'Roboto Flex';
+}
+
+aside {
+    padding-left: 50px;
+    padding-right: 100px;
+    padding-top: 30px;
+    padding-bottom: 400px;
+    width: 300px;
+    font-size: 25px;
+    margin-left: 75px;
+    background-color: #BCBF60;
+    margin-top: 50px;
+    display: inline-block;
+}
+
+.main_image {
+    width: 1200px;
+    
+}
+
+main {
+    margin-top: 55px;
+    margin-right: 5%;
+    float: right;
+}
+
+.desc {
+    padding-left: 50px;
+    padding-right: 150px;
+    padding-top: 30px;
+    padding-bottom: 50px;
+    width: 1000px;
+    background-color: #BCBF60;
+    margin-bottom: 100px;
+    margin-top: 50px;
+    font-size: 25px;
+}
+
+footer {
+    margin-top: 100px;
+    margin-bottom: 0%;
+    padding-right: 600px;
+    padding-left: 800px;
+    padding-bottom: 10px;
+    font-size: 20px;
+    width: 500px;
+    background-color: #BCBF60;
+}
+
+.other {
+    padding-left: 50px;
+    padding-right: 100px;
+    padding-top: 30px;
+    padding-bottom: 40px;
+    width: 900px;
+    font-size: 25px;
+    background-color: #BCBF60;
+    margin-top: 100px;
+    margin-left: 500px;
+    display: inline-block;
+}
+
+.other_footer {
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    background-color: #BCBF60;
+    text-align: center;
+}
